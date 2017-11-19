@@ -324,7 +324,7 @@ $ dmode startproject react-redux-template
 1. Importing Auth
 
 ```
-var auth = imports('./../libs/prebuild/user.js');
+var auth = imports('AuthUser');
 
 ```
 
@@ -386,3 +386,5 @@ exports.EXCLUDE_AUTH = [
 var user = request.user;
 
 ```
+
+
