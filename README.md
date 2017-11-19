@@ -386,5 +386,3 @@ exports.EXCLUDE_AUTH = [
 var user = request.user;
 
 ```
-
-
